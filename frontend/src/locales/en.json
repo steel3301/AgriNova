@@ -1,0 +1,30 @@
+{
+  "appName" : "KrushiMitra",
+  "tagline" : "Digital Farmer Assistant",
+  "assistant" : "AI Assistant",
+  "planner" : "Planner",
+  "market" : "Market", 
+  "navbar.assistant": "Farm Assistant",
+  "navbar.planner": "Crop Planner",
+  "navbar.market": "Market",
+  "navbar.subtitle": "AI-powered crop advisor",
+
+  "home.welcomeTitle": "Ask me anything about farming",
+  "home.welcomeSubtitle": "I can help with crop issues, planting advice, and market information",
+
+  "chat.placeholder": "Ask about pests, crops, or prices...",
+  "chat.tip": "Press Enter to send, Shift+Enter for new line",
+  "chat.imageButton": "Upload image",
+  "chat.sendButton": "Send",
+  "chat.loading": "Thinking...",
+  "chat.imageUploaded": "[image uploaded]",
+  "chat.imageAnalysisDone": "Image analysis done.",
+  "chat.imageAnalysisFailed": "Image analysis failed.",
+  "chat.error": "Error contacting server",
+
+  "planner.title": "Crop Planning Calendar",
+  "planner.subtitle": "Plan your crop activities with a clear timeline and calendar view.",
+
+  "market.title": "Market Prices",
+  "market.subtitle": "Get real-time market prices for your crops."
+}
